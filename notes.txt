@@ -1,3 +1,6 @@
+HEAD
 hello from main branch
+hello from branch a
+conflict-test
 learning linux commands
 experminting on a branch
