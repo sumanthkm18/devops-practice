@@ -1,0 +1,2 @@
+hello devops
+learning linux commands
